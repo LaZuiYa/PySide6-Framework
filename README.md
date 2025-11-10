@@ -1,6 +1,6 @@
 # PySide6 Framework
 
-一个基于PySide6和PySide6-Fluent-Widgets的现代化桌面应用程序框架，集成了用户认证、权限管理、数据库支持和远程模型服务等功能。
+一个基于PySide6和PySide6-Fluent-Widgets的现代化桌面应用程序框架，集成了用户认证、菜单管理、权限管理、数据库支持和远程模型服务等功能。
 
 ## 功能特性
 
