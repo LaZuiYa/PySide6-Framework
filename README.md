@@ -96,7 +96,7 @@ poetry --version
 
 1.  **克隆项目**
     ```bash
-    git clone https://gitee.com/liuziye666/py-side6-framework.git
+    git clone https://github.com/LaZuiYa/PySide6-Framework.git
     cd py-side6-framework
     ```
 
@@ -125,7 +125,7 @@ poetry --version
 
 1.  **克隆项目**
     ```bash
-    git clone https://gitee.com/liuziye666/py-side6-framework.git
+    git clone https://github.com/LaZuiYa/PySide6-Framework.git
     cd py-side6-framework
     ```
 
