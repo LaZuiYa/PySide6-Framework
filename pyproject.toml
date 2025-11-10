@@ -1,0 +1,36 @@
+[project]
+name = "pyside6"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "辣嘴鸭",email = "9006177+liuziye666@user.noreply.gitee.com"}
+]
+readme = "README.md"
+package-mode = false
+requires-python = "~3.9"
+dependencies = [
+    "python-dotenv (==1.0.1)",
+    "sshtunnel (==0.4.0)",
+    "casbin-sqlalchemy-adapter (==1.4.0)",
+    "sqlalchemy (==2.0.35)",
+    "casbin (==1.43.0)",
+    "pycasbin (==1.49.0)",
+    "pyside6 (==6.6.3.1)",
+    "pyside6-addons (==6.6.3.1)",
+    "pyside6-essentials (==6.6.3.1)",
+    "pyside6-fluent-widgets (==1.9.1)",
+    "paramiko (==3.5.0)",
+    "pymysql (==1.1.1)",
+    "requests (>=2.32.5,<3.0.0)",
+    "flask (>=3.1.2,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (==7.4.0)"
+]
